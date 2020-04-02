@@ -21,9 +21,11 @@ locale                   : "en-US"
 title                    : "조병우의 블로그"
 title_separator          : "-"
 subtitle                 : "bwjoe's blog"
-name                     : "bwjoe"
+name                     : "Byungwoo Joe"
 description              : "Byungwoo's website."
 url                      : "https://byungwoojoe.github.io"     # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+
+
 baseurl                  : ""    # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -95,11 +97,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "bwJoe"
+  name             : "Byungwoo Joe"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : " **조병우** 입니다. 일상을 기록하고자 합니다."
   location         : "Seoul"
   email            :
+  
+  
+  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
