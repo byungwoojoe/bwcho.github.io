@@ -18,7 +18,7 @@ remote_theme : mmistakes/minimal-mistakes
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "조병우의 블로그"
 title_separator          : "-"
 subtitle                 : "bwjoe's blog"
 name                     : "bwjoe"
