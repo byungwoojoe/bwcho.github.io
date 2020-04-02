@@ -22,7 +22,7 @@ title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : "bwjoe's blog"
 name                     : "bwjoe"
-description              : "An amazing website."
+description              : "Byungwoo's website."
 url                      : "https://byungwoojoe.github.io"     # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""    # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -97,7 +97,7 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : " **조병우** 입니다. 일상을 기록하고자 합니다."
   location         : "Somewhere"
   email            :
   links:
