@@ -20,7 +20,7 @@ remote_theme : mmistakes/minimal-mistakes
 locale                   : "en-US"
 title                    : "조병우의 블로그"
 title_separator          : "-"
-subtitle                 : "bwjoe's blog"
+subtitle                 : "Byungwoo's blog"
 name                     : "Byungwoo Joe"
 description              : "Byungwoo's website."
 url                      : "https://byungwoojoe.github.io"     # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
