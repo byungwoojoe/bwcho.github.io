@@ -23,7 +23,7 @@ title_separator          : "-"
 subtitle                 : "Byungwoo's blog"
 name                     : "Byungwoo Joe"
 description              : "Byungwoo's website."
-url                      : "https://byungwoojoe.github.io"     # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://bwcho.github.io"     # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 
 
 baseurl                  : ""    # the subpath of your site, e.g. "/blog"
