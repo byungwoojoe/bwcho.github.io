@@ -21,9 +21,9 @@ locale                   : "en-US"
 title                    : "조병우의 블로그"
 title_separator          : "-"
 subtitle                 : "Byungwoo's blog"
-name                     : "Byungwoo Joe"
+name                     : "Cho Byung Woo"
 description              : "Byungwoo's website."
-url                      : "https://bwcho.github.io"     # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://chobyungwoo.github.io"     # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 
 
 baseurl                  : ""    # the subpath of your site, e.g. "/blog"
@@ -97,9 +97,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Byungwoo Joe"
+  name             : "Cho Byung Woo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : " **조병우** 입니다.   일상을 기록하고자 합니다."
+  bio              : "초보 블로거 **조병우** 입니다."
   location         : "Seoul"
   email            :
   
