@@ -1,2 +1,2 @@
 # bwcho.github.io
-bwjoe's blog
+Cho Byung Woo's blog
